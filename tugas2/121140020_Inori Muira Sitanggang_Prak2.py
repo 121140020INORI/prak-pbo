@@ -19,7 +19,7 @@ class Diri:
         print("Dan jumlah sks PBO sebesar ",self.jumlah_sks, " sks")
         print("Kehadiran:",self.absensi)
 
-ini_objek = Diri("Inori", "121140020", "RB", 4, "Hadir")
+ini_objek = Diri("Inori Muira Sitanggang", "121140020", "RB", 4, "Hadir")
 ini_objek.Panggil_semua()
 print(ini_objek.jumlah_mata)
 print(ini_objek.jumlah_kepala)
